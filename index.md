@@ -5,9 +5,6 @@ hero:
   name: SoulDungeon
   text: Minecraft 现代化副本地牢插件
   tagline: 基于 TabooLib · 配置文件驱动 · 脚本化流程 · 实例隔离 · 支持 MythicMobs
-  image:
-    src: /images/logo.png
-    alt: SoulDungeon 地牢传送门
   actions:
     - theme: brand
       text: 快速开始
