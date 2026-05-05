@@ -152,11 +152,11 @@ export default defineConfig({
       },
     },
     editLink: {
-      pattern: 'https://github.com/your-org/SoulDungeon/edit/main/docs/:path',
+      pattern: 'https://github.com/MySoulcutting/SoulDungeon/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页',
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/your-org/SoulDungeon' },
+      { icon: 'github', link: 'https://github.com/MySoulcutting/SoulDungeon' },
     ],
     footer: {
       message: '基于 <a href="https://vitepress.dev" target="_blank">VitePress</a> 构建 · 使用 <a href="https://tabooproject.org" target="_blank">TabooLib</a> 框架',

@@ -11,7 +11,7 @@
 ## 1. 构建插件
 
 ```bash
-git clone https://github.com/your-org/SoulDungeon.git
+git clone https://github.com/MySoulcutting/SoulDungeon.git
 cd SoulDungeon
 ./gradlew build
 ```

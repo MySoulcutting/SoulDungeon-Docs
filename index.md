@@ -14,7 +14,7 @@ hero:
       link: /config/scripts
     - theme: alt
       text: GitHub
-      link: https://github.com/your-org/SoulDungeon
+      link: https://github.com/MySoulcutting/SoulDungeon
 
 features:
   - icon: 🏰
