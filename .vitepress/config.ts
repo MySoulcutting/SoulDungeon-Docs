@@ -6,7 +6,8 @@ export default defineConfig({
   description: 'Minecraft 现代化副本/地牢系统插件 —— 配置文件驱动、脚本化流程、实例隔离',
   base: '/',
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/images/logo.png' }],
+    ['link', { rel: 'apple-touch-icon', href: '/images/logo.png' }],
     ['meta', { name: 'theme-color', content: '#8b5cf6' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:title', content: 'SoulDungeon - Minecraft 副本插件文档' }],
@@ -23,7 +24,7 @@ export default defineConfig({
   },
   themeConfig: {
     siteTitle: 'SoulDungeon',
-    logo: '',
+    logo: '/images/logo.png',
     search: {
       provider: 'local',
       options: {
