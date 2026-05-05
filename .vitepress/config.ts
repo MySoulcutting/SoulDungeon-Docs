@@ -4,6 +4,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: 'SoulDungeon',
   description: 'Minecraft 现代化副本/地牢系统插件 —— 配置文件驱动、脚本化流程、实例隔离',
+  base: '/SoulDungeon-Docs/',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'theme-color', content: '#8b5cf6' }],
